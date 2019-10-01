@@ -5,5 +5,5 @@
   
   #Logout and login
   
-  curl -sSL https://github.com/zmpvn/cvat_install/raw/master/ubuntu1.sh | bash
+  curl -sSL https://github.com/zmpvn/cvat_install/raw/master/ubuntu2.sh | bash
   ```
